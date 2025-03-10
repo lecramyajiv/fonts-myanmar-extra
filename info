@@ -100,12 +100,16 @@ Homepage: https://github.com/kokoye2007/fonts-myanmar
  .
  Myanmar Sans Pro is a display Myanmar Unicode font.
  Authors by Danh Hong
- Manufacture by Google
+ Developed by Google
  .
  Namkhone is a Shan Script Font.
  display Myanmar Unicode font.
  Authors by PJailon
- Manufacture by NamKhone
+ Developed by NamKhone
+ .
+ NK_SSmart*
+ Authors by PJailon
+ Developed by NamKhone
  .
  MON3 Anonta 1 display Myanmar Unicode font.
  follow unicode 5.1 and follow ICU standard.
@@ -113,9 +117,11 @@ Homepage: https://github.com/kokoye2007/fonts-myanmar
  Authors by Mon2Uni For google fonts
 .
 Tharlon font
-Author:Sai Zin Di Di Zone,Sun Tun, Ngwe Tun, Solveware Solution For google fonts
+Author:Sai Zin Di Di Zone,Sun Tun, Ngwe Tun,
+Solveware Solution For google fonts
 .
-Masterpiece* font is developed by Prahita open source project.
+Masterpiece* font
+Developed by Prahita open source project.
 Author:Tin Myo Htet
 .
 Yunghkio
