@@ -1,8 +1,4 @@
 Homepage: https://github.com/kokoye2007/fonts-myanmar
-
- Zawgyi Font From Alpha Zawgyi.
- Free Font and most popular in Burmese.
- Burmese Script only.
  .
  Myanmar3 is official use for Government site.
  Its support from Myanmar NLP.
@@ -21,10 +17,6 @@ Homepage: https://github.com/kokoye2007/fonts-myanmar
  Unicode font suite for Myanmar.
  develop and support by Myanmar NLP.
  Support Burmese, Shan, Karen, Mon script.
- .
- Ayar Unicode From Ayar Group
- Ayar is not follow unicode point rules.
- but not follow rendering for ICU rules.
  .
  chatulight is a display Myanmar Unicode font.
  Authors by Danh Hong
@@ -118,4 +110,34 @@ Homepage: https://github.com/kokoye2007/fonts-myanmar
  MON3 Anonta 1 display Myanmar Unicode font.
  follow unicode 5.1 and follow ICU standard.
  include Burmese, Karen, Mon and other script.
- Authors by Mon2Uni
+ Authors by Mon2Uni For google fonts
+.
+Tharlon font
+Author:Sai Zin Di Di Zone,Sun Tun, Ngwe Tun, Solveware Solution For google fonts
+.
+Masterpiece* font is developed by Prahita open source project.
+Author:Tin Myo Htet
+.
+Yunghkio
+Author:Sai Zin Di Di Zone
+.
+Paduak:
+Developed by:SIL Global
+Author:Debbi Hosken, Becca Hirsbrunner Spalinger
+.
+KayPhoDu:
+Developed by:SIL Global
+Author:Victor Gaultney, Khu Oo Reh
+For Kayah Li script
+.
+Myanmar-Black:
+Author:Danh Hong
+Developed for:Google
+.
+Myanmar-HeadOne:
+Author:Danh Hong
+Developed for:Google
+.
+Myanmar PaOh Unicode Area
+Author:Khon Soe Zaw Thu,Khonsoezawthu@hotmail.com
+Based on:Paduak by SIL Global
